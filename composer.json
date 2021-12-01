@@ -11,7 +11,9 @@
     },
     "type": "magento2-module",
     "version": "2.1.0",
-    "license": "proprietary",
+    "license": [
+        "proprietary"
+    ],
     "autoload": {
         "files": [
             "registration.php"
